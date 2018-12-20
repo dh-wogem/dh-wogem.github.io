@@ -22,7 +22,7 @@ compress_html:
 # Site meta
 title:                'DH-WOGEM'
 tagline:              'Women and Gender Minorities in Digital Humanities'
-description:          'Homepage for a group supporting and advocating for women and gender minorities in Digital Humanities'
+description:          'Women and Gender Minorities in Digital Humanities'
 url:                  https://dh-wogem.github.io
 assets:               /assets
 images:               /images/
