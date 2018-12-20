@@ -23,8 +23,7 @@ compress_html:
 title:                'DH-WOGEM'
 tagline:              'Women and Gender Minorities in Digital Humanities'
 description:          'Homepage for a group supporting and advocating for women and gender minorities in Digital Humanities'
-url:                  https://madebyconnor.github.io
-baseurl:              /change
+url:                  https://dh-wogem.github.io
 assets:               /assets
 images:               /images/
 image:                index-large.jpg
