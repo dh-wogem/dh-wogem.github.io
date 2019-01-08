@@ -6,11 +6,11 @@ title: Becoming a Parent
 image: true
 ---
 
-Quinn Dombrowski will host the first DH-WOGEM conversation in late January or early February, on experiences with pregnancy, maternity leave, and going back to work. 
+Quinn Dombrowski will host the first DH-WOGEM conversation in late January or early February, on experiences with pregnancy, maternity leave, and going back to work. Potential and future parents are welcome!
 
 <!-- Read more -->
 
-In this conversation, participants can share experiences about how they made choices (or didn't) about when to become a parent, and what arrangements they worked out around pregnancies, maternity leave, and accommodations (e.g. breastfeeding, daycare drop-off/pick-up, etc.) after returning to work.
+In this conversation, participants can share experiences about how they made choices (or didn't) about when to become a parent, and what arrangements they worked out around pregnancies, maternity leave, and accommodations (e.g. breastfeeding, daycare drop-off/pick-up, etc.) after returning to work. Potential and future parents are welcome to ask questions!
 
 If you're involved with digital humanities, and have had children at any point in your career, or are interested in hearing the perspectives and advice of people who've already been down that road, please [fill out this Google form to help us find a time](https://goo.gl/forms/wLo65Bx9xsCdZIQo2). Even if you can't make it, [the form](https://goo.gl/forms/wLo65Bx9xsCdZIQo2) includes a place for you to share your own story, anonymously or with attribution.
 
