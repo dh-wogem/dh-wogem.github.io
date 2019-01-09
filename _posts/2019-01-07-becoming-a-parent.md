@@ -7,7 +7,7 @@ image: true
 include: false
 ---
 
-Quinn Dombrowski will host the first DH-WOGEM conversation in late January or early February, on experiences with pregnancy, maternity leave, and going back to work. Potential and future parents are welcome!
+Quinn Dombrowski will host the first DH-WOGEM conversation in late January or early February, on experiences with pregnancy, maternity leave, and going back to work. Potential and future parents are welcome! [Help us find a time by filling out this form](https://goo.gl/forms/wLo65Bx9xsCdZIQo2).
 
 <!-- Read more -->
 
