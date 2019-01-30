@@ -7,7 +7,7 @@ image: true
 include: false
 ---
 
-Quinn Dombrowski will host the first DH-WOGEM conversation on **February 1, 2019 from 9-10:30 Pacific (11-12:30 Central, 12-1:30 Eastern)**, on experiences with pregnancy, maternity leave, and going back to work. Potential and future parents are welcome! [If you have a story to share anonymously, please fill out this form!](https://goo.gl/forms/wLo65Bx9xsCdZIQo2)
+Quinn Dombrowski will host the first DH-WOGEM conversation on **February 1, 2019 from 9-10:30 Pacific (11-12:30 Central, 12-1:30 Eastern)** [via this Zoom link](https://stanford.zoom.us/j/8921507374), on experiences with pregnancy, maternity leave, and going back to work. Potential and future parents are welcome! [If you have a story to share anonymously, please fill out this form!](https://goo.gl/forms/wLo65Bx9xsCdZIQo2)
 
 <!-- Read more -->
 
