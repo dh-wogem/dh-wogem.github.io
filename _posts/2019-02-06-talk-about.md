@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-ref: becoming-parent
+ref: talk-about
 title: What can you talk about in a DH-WOGEM conversation?
 image: true
 include: false
