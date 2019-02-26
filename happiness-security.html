@@ -1,0 +1,30 @@
+---
+layout: default
+lang: en
+ref: index
+image: true
+exclude: false
+---
+
+{% include core/metabar.html %}
+
+<article class="content">
+
+  <header class="hero">
+    <h1 class="hero-title">{{ site.description }}</h1>
+    {% include core/share.html %}
+    {% if page.image %}
+      <div class="hero-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}.jpg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}.jpg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}-large.jpg') 2x )"></div>
+    {% endif %}
+  </header>
+
+  <section id="about" class="section">
+    <h2 class="section-title">Happiness vs. Security</h2>
+    <article>
+      <p>Jennifer Guiliano and Roopika Risam will host the second DH-WOGEM conversation on **March 1, 2019 from 9-10:30 Pacific (11-12:30 Central, 12-1:30 Eastern)** on happiness vs. security, <a href="https://stanford.zoom.us/j/697503934">via this Zoom link: https://stanford.zoom.us/j/697503934</a>.</p>
+      <p>Join DH-WOGEM​ on Friday, March 1st to discuss "happiness" versus "security". What do you need in your life to help you maintain your happiness? How do you balance happiness with the desire for financial security? for living in a particular environment? for having a certain type of career? Are compromises necessary? How do you compromise and still maintain your happiness?</p>
+            </article>
+  </section>
+  
+
+</article>
