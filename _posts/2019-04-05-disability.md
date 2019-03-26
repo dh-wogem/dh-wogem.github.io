@@ -7,7 +7,7 @@ image: true
 include: false
 ---
 
-Tassie Gniady will host the third DH-WOGEM conversation on April 5th on physical and mental disability, via this Zoom link: https://stanford.zoom.us/j/593641556.
+Tassie Gniady will host the third DH-WOGEM conversation on April 5th (12-1:30 Eastern, 9-10:30 Pacific) on physical and mental disability, via this Zoom link: https://stanford.zoom.us/j/593641556.
 
 
 <!-- Read more -->
