@@ -229,6 +229,14 @@
   section {
     @include ctnr(full);
   }
+  
+  section a {
+    color: palette(gray, light);
+
+    &:hover,
+    &:focus {
+      color: palette($primary);
+    }
 
   aside {
     @include ctnr(one);
