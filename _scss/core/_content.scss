@@ -230,13 +230,6 @@
     @include ctnr(full);
   }
   
-  article a {
-    color: palette($primary);
-
-    &:hover,
-    &:focus {
-      color: palette(gray, light);
-    }
 
   aside {
     @include ctnr(one);
