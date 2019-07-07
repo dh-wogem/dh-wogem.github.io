@@ -231,11 +231,11 @@
   }
   
   section a {
-    color: palette(gray, light);
+    color: palette($primary);
 
     &:hover,
     &:focus {
-      color: palette($primary);
+      color: palette(gray, light);
     }
 
   aside {
