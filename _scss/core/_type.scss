@@ -80,7 +80,7 @@ $typi: (null: (12px, 2), x-small: 16px, medium: 20px, x-large: 24px);
 
     a {
       background-size: .05em 2px, .05em 2px, 2px 2px;
-	  color: red;
+	  color: #fa5252;
 	  text-decoration: underline;
       &:hover,
       &:focus {
@@ -224,7 +224,7 @@ body {
 
 a {
   border: 0;
-  color: red;
+  color: #fa5252;
   text-decoration: underline;
 }
 
