@@ -11,7 +11,7 @@ If you identify as a woman and gender minority working in DH anywhere in the wor
 
 <!-- Read more -->
 
-Elaine Treharne and Quinn Dombrowski will be co-editing the proceedings of the workshop, which will feature less-formal and more interpersonal writings drawing from the speakers' presentations: closer in spirit to an essay, blog post, or oral history transcript than a formal research paper. 
+Elaine Treharne, Glen Worthey, and Quinn Dombrowski will be co-editing the proceedings of the workshop, which will feature less-formal and more interpersonal writings drawing from the speakers' presentations: closer in spirit to an essay, blog post, or oral history transcript than a formal research paper. 
 
 For the second part of the proceedings, we welcome submissions of 300-600 word "love letters" to to a piece of scholarship in DH, broadly defined, that you love. While inspired by the love letters written among the  Situated Critical Race and Media (SCRAM) collective members, these "love letters" are to a work that's inspired you, whether or not you know the author. We’ve included an example below. All women and gender minorities working in DH worldwide are welcome to contribute, regardless of their position (from undergraduate to emerita), speciality, or employment status. Authors of the work described by the love letter can be of any gender. We hope that together, these pieces can provide one perspective of the world of DH scholarship as experienced by women and gender minorities -- of the things that matter to us, and why.
 
