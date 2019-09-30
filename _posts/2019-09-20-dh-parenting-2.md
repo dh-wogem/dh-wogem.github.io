@@ -1,0 +1,47 @@
+---
+layout: post
+lang: en
+ref: dh-parenting-2
+title: DH Parenting (fall 2019)
+image: true
+include: false
+---
+
+On September 20th, Quinn Dombrowski led the second DH-WoGeM discussion about becoming a parent in DH. This time, the participants all held library and/or staff positions at universities, which has influenced their parenting experiences.
+<!-- Read more -->
+
+All the participants noted the discrepancy between services and accommodations available for faculty and those available for other groups of people. Even on campuses that provide priority access or discounts for campus childcare centers, one participant got on the waiting list as soon as her child was born, and was notified of an opening a week before that child started kindergarten. On another campus, one participant noted clear discrepancies in the quality of the facility and resourcing of different childcare centers on campus, as well as the practice of assigning the children of recruited faculty to the limited spots in the nicest center. On the other hand, being in a staff role made it possible for one participant to work fewer hours than full-time, to be able to take her child, who has a significant disability, to many necessary doctor's appointments.
+
+One of the participants had extensive experience with [Title IX](https://en.wikipedia.org/wiki/Title_IX) law in the US, which is most commonly referenced in the context of college athletics, and sexual harassment and discrimination, but which also provides protections for parenting students (up to and including the level of postdocs). She noted that most institutions don't even have data on how many parenting students they have. When her institution began to look into the stats for parenting students, they discovered that the campus only had enough spaces in on-campus childcare to meet the needs of 10% of the parenting students, many of whom were frustrated because they chose to attend grad school at that institution with the assumption that they would be able to access childcare. Many parenting students are left taking out additional loans, or having relatives move in with them to provide childcare. 72% of undergraduate parenting students were found to be food-insecure, as well as 33% of parenting grad students, with higher rates for single-parenting students. Some participants mentioned obnoxious comments that they had received as grad students, such as faculty telling them to not have children, or to never mention that they have children in order to be taken seriously. In the US, making such comments could potentially open a faculty member to a lawsuit under Title IX.
+
+Staff and library experiences of parenting are diverse, even within the same organization. On one hand, staff and librarians are more likely to work with colleagues who also have children, and there is less pressure to hide the existence of one's children, at the risk of seeming "not committed" to one's job. On the other hand, some roles have restrictions on parenting-friendly accommodations (such as working from home) due to union contracts, and individual managers' interpretations of these contracts introduces even more potential variation in working conditions.
+
+We also talked about the challenges of making "parent-friends". While some people at our respective childcare / school environments have visibly managed to develop a support network of other parents to help with pick-ups and drop-offs, all of the participants on this call have struggled with making those connections. Playgroups and the like can be particularly difficult to get involved with in communities where only one parent (typically the father) works. One participant noted that most two-parent-working families are in the same situation of being tired and stressed out, and wanting to connect but not being able to make it work, except for chance encounters at birthday parties. Another participant, who works an hour away from where her child goes to school (as does her husband), mentioned that she's drummed up the courage to cold-call other parents when there are major train delays or other emergencies, to ensure her children get picked up. The possibility of emergency pick-ups has had additional consequences for her family: her child has life-threatening allergies, but isn't allowed to carry his medication with him at school. But his medication is in the nurses's office, and he can't go get it if he's being picked up by a friend's family. As a result, she's had to teach her child how to administer his own emergency medication, and "smuggle" it with him at school, so he's safe if he has an allergic reaction after being picked up from school by someone else.
+
+We briefly talked about one of the follow-up activities from a previous conversation about parenting: a global survey of work/life balance and caring (broadly defined, to include childcare, elder-care, self-care, etc.) responsibilities in DH. As another follow-up, we talked about looking at the [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/), particularly the section on [short institutes and workshops](https://cmu-lib.github.io/dhlg/global-resources/educational-resources/short-institutes-and-workshops/), and checking in with the organizers about which of them provide some kind of childcare arrangement, then adding some notation for that in the guidebook. The participants also wanted DH-WoGeM to continue to provide a space to talk about issues related to parenthood; we agreed to hold a conversation on the topic quarterly. The participant with experience around Title IX as applied to parenthood shared a number of links that she hopes that parenting students (through the postdoc level) can use at their local institutions.
+
+Finally, some concluding remarks directly from one of the participants:
+
+I was looking through the [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/) and I saw the pages in topics on DH Feminism and DH Postcolonialism, especially blog posts like [Miriam Posner's here](https://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/):
+
+She talks about how there is a structural problem if women and people of color are not in spaces. I think that is part of what came up in our discussion this morning--there is a structural problem in postsecondary education, in college, graduate school, and beyond, where parents, especially women, are questioned about the choices they are making about their families (not just having children, but caring for relatives with chronic health issues as well, and how many times people are doing this with not a lot of family support around them).
+
+It's a structural problem: cost of and access to child care, time poverty, racial and gender inequity, disability. Everyone--students, faculty, and staff--are dealing with this issue in some way, and aren't talking about it. I think bringing the conversation out into the open is really helpful.
+
+Resources
+
+-   The [Family Friendly Campus Toolkit](https://www.endicott.edu/family-friendly-campus-toolkit) has a shorter [framework of best practices](https://www.endicott.edu/-/media/endicott/home/family-friendly-campus-toolkit/framework-of-recommended-practices.ashx?la=en&hash=F82244D0A43BE457BB23F6C08E5B335A5E15BE11) (PDF); the section on institutional cultural is particularly relevant for DH centers
+
+-   UCLA [provides a travel award](https://equity.ucla.edu/programs-resources/funding-opportunities/#travel) for reimbursement of child care while faculty attend a conference; drawing on the language they use for the purpose of the grant [in this policy document](https://ucla.app.box.com/s/854uekqn0mr7dknmaj7csxr88w2i516x) may be helpful when trying to make the case for similar support
+
+-   A [model Title IX policy covering the rights of pregnant and parenting students](https://cdn.atixa.org/website-media/atixa.org/wp-content/uploads/2016/11/12193033/ATIXA-Model-Policy_Pregnancy-Parenting_1103165.pdf) (PDF)
+
+-   A report from the [Institute for Women's Policy Research](https://iwpr.org/) (IWPR), [Parents in College by the Numbers](https://iwpr.org/publications/parents-college-numbers/) (very useful for everyone to have access to this data--DH programs can take an active role in ensuring that academic programs and conferences and research/internship opportunities are allowing access to people who are parents, from the undergraduate level up through the faculty pipeline).
+
+-   A report from Ascend at the Aspen Institute, "[Accelerating Postsecondary Success for Parents: Leveraging the Two-Generation Approach in Policy](https://ascend.aspeninstitute.org/wp-content/uploads/2018/11/Ascend_Postsecondary-Success-for-Parents_Policy_2018-1.pdf)" (PDF) that provides a clear definition of "time poverty" for parents of preschool-age children
+
+-   A report from IWPR on "[Time Demands of Single Mother College Students and the Role of Child Care in their Postsecondary Success](https://iwpr.org/publications/single-mothers-college-time-use/)"
+
+-   An Inside Higher Ed piece on "[Family-Friendly Conferences](https://www.insidehighered.com/advice/2018/02/07/conferences-should-be-more-family-friendly-women-scholars-children-opinion)"
+
+-   [The Pregnant Scholar](https://thepregnantscholar.org/) toolkit
